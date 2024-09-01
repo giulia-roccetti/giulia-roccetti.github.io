@@ -1348,7 +1348,7 @@
   min-height: 525px;
   pointer-events: auto;
   background-image: url("images/WhatsAppImage2024-05-05at21.38.36.jpeg");
-  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
@@ -1363,7 +1363,7 @@
 .u-section-5 .u-layout-cell-2 {
   min-height: 525px;
   pointer-events: auto;
-  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
