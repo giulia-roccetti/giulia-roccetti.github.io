@@ -832,12 +832,14 @@
 .u-section-3 .u-btn-7 {
   background-image: none;
   font-weight: 700;
+  font-size: 1rem;
   margin: 15px 88px 0 auto;
 }
 
 .u-section-3 .u-btn-8 {
   background-image: none;
   font-weight: 700;
+  font-size: 1rem;
   margin: -42px auto 0 88px;
 }
 
@@ -886,6 +888,7 @@
 .u-section-3 .u-btn-9 {
   background-image: none;
   font-weight: 700;
+  font-size: 1rem;
   margin: 18px auto 0;
 }
 
@@ -1021,12 +1024,10 @@
 
   .u-section-3 .u-btn-7 {
     margin-right: 30px;
-    font-size: 1rem;
   }
 
   .u-section-3 .u-btn-8 {
     margin-left: 30px;
-    font-size: 1rem;
   }
 
   .u-section-3 .u-layout-cell-6 {
@@ -1054,7 +1055,6 @@
 
   .u-section-3 .u-btn-9 {
     margin-top: 7px;
-    font-size: 1rem;
   }
 }
 
@@ -1304,10 +1304,6 @@
 
   .u-section-3 .u-btn-7 {
     margin-top: 12px;
-  }
-
-  .u-section-3 .u-btn-9 {
-    margin-top: 0;
   }
 } .u-section-4 {
   background-image: none;
